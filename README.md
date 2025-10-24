@@ -1,2 +1,2 @@
 # Digital-clock-FPGA
-digital min/sec clock using Nexys A7-100T board
+digital min/sec clock via verilog using Nexys A7-100T board
